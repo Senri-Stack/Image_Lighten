@@ -1,0 +1,6 @@
+参考サイト
+https://algorithm.joho.info/programming/python/opencv-encode-decode-py/
+
+
+やりたいこと
+- imgフォルダのjpgファイルをリスト（一覧）で取得したい。
